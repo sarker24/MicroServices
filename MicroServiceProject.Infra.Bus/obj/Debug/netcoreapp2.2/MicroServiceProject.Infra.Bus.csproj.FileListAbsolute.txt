@@ -7,3 +7,6 @@ C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Bus\ob
 C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Bus\obj\Debug\netcoreapp2.2\MicroServiceProject.Infra.Bus.dll
 C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Bus\obj\Debug\netcoreapp2.2\MicroServiceProject.Infra.Bus.pdb
 C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Bus\obj\Debug\netcoreapp2.2\MicroServiceProject.Infra.Bus.csprojAssemblyReference.cache
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Bus\bin\Debug\netcoreapp2.2\MicroServiceProject.Domain.Core.dll
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Bus\bin\Debug\netcoreapp2.2\MicroServiceProject.Domain.Core.pdb
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Bus\obj\Debug\netcoreapp2.2\MicroServiceProject.Infra.Bus.csproj.CopyComplete
