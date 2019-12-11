@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp2.2</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MicroServiceProject.BookingFlight.Domain\MicroServiceProject.BookingFlight.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
