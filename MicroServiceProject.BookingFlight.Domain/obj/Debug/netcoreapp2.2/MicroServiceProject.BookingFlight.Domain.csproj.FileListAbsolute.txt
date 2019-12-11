@@ -6,4 +6,3 @@ C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFligh
 C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Domain\obj\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Domain.AssemblyInfo.cs
 C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Domain\obj\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Domain.dll
 C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Domain\obj\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Domain.pdb
-C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Domain\obj\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Domain.csprojAssemblyReference.cache
