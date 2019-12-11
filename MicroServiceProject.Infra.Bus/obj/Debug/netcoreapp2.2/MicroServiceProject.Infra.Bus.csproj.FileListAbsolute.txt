@@ -1,0 +1,9 @@
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Bus\bin\Debug\netcoreapp2.2\MicroServiceProject.Infra.Bus.deps.json
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Bus\bin\Debug\netcoreapp2.2\MicroServiceProject.Infra.Bus.dll
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Bus\bin\Debug\netcoreapp2.2\MicroServiceProject.Infra.Bus.pdb
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Bus\obj\Debug\netcoreapp2.2\MicroServiceProject.Infra.Bus.csprojAssemblyReference.cache
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Bus\obj\Debug\netcoreapp2.2\MicroServiceProject.Infra.Bus.csproj.CoreCompileInputs.cache
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Bus\obj\Debug\netcoreapp2.2\MicroServiceProject.Infra.Bus.AssemblyInfoInputs.cache
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Bus\obj\Debug\netcoreapp2.2\MicroServiceProject.Infra.Bus.AssemblyInfo.cs
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Bus\obj\Debug\netcoreapp2.2\MicroServiceProject.Infra.Bus.dll
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Bus\obj\Debug\netcoreapp2.2\MicroServiceProject.Infra.Bus.pdb

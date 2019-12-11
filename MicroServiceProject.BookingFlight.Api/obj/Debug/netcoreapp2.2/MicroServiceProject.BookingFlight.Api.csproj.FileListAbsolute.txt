@@ -1,0 +1,14 @@
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Api\bin\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Api.deps.json
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Api\bin\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Api.runtimeconfig.json
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Api\bin\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Api.runtimeconfig.dev.json
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Api\bin\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Api.dll
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Api\bin\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Api.pdb
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Api\obj\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Api.csprojAssemblyReference.cache
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Api\obj\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Api.csproj.CoreCompileInputs.cache
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Api\obj\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Api.RazorAssemblyInfo.cache
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Api\obj\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Api.RazorAssemblyInfo.cs
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Api\obj\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Api.AssemblyInfoInputs.cache
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Api\obj\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Api.AssemblyInfo.cs
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Api\obj\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Api.RazorTargetAssemblyInfo.cache
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Api\obj\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Api.dll
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Api\obj\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Api.pdb

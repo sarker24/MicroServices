@@ -1,0 +1,9 @@
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Data\bin\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Data.deps.json
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Data\bin\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Data.dll
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Data\bin\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Data.pdb
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Data\obj\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Data.csprojAssemblyReference.cache
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Data\obj\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Data.csproj.CoreCompileInputs.cache
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Data\obj\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Data.AssemblyInfoInputs.cache
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Data\obj\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Data.AssemblyInfo.cs
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Data\obj\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Data.dll
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Data\obj\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Data.pdb

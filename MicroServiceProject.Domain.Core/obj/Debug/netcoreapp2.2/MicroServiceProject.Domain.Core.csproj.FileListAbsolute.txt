@@ -1,0 +1,9 @@
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Domain.Core\bin\Debug\netcoreapp2.2\MicroServiceProject.Domain.Core.deps.json
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Domain.Core\bin\Debug\netcoreapp2.2\MicroServiceProject.Domain.Core.dll
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Domain.Core\bin\Debug\netcoreapp2.2\MicroServiceProject.Domain.Core.pdb
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Domain.Core\obj\Debug\netcoreapp2.2\MicroServiceProject.Domain.Core.csprojAssemblyReference.cache
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Domain.Core\obj\Debug\netcoreapp2.2\MicroServiceProject.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Domain.Core\obj\Debug\netcoreapp2.2\MicroServiceProject.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Domain.Core\obj\Debug\netcoreapp2.2\MicroServiceProject.Domain.Core.AssemblyInfo.cs
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Domain.Core\obj\Debug\netcoreapp2.2\MicroServiceProject.Domain.Core.dll
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Domain.Core\obj\Debug\netcoreapp2.2\MicroServiceProject.Domain.Core.pdb
