@@ -6,3 +6,4 @@ C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Bus\ob
 C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Bus\obj\Debug\netcoreapp2.2\MicroServiceProject.Infra.Bus.AssemblyInfo.cs
 C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Bus\obj\Debug\netcoreapp2.2\MicroServiceProject.Infra.Bus.dll
 C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Bus\obj\Debug\netcoreapp2.2\MicroServiceProject.Infra.Bus.pdb
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Bus\obj\Debug\netcoreapp2.2\MicroServiceProject.Infra.Bus.csprojAssemblyReference.cache
