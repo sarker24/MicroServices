@@ -21,3 +21,7 @@ C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFligh
 C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Api\obj\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Api.csproj.CopyComplete
 C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Api\obj\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Api.dll
 C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Api\obj\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Api.pdb
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Api\bin\Debug\netcoreapp2.2\MicroServiceProject.Domain.Core.dll
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Api\bin\Debug\netcoreapp2.2\MicroServiceProject.Infra.Bus.dll
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Api\bin\Debug\netcoreapp2.2\MicroServiceProject.Domain.Core.pdb
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Api\bin\Debug\netcoreapp2.2\MicroServiceProject.Infra.Bus.pdb

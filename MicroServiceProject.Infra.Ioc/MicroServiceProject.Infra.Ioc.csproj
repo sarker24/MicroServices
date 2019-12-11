@@ -8,6 +8,7 @@
     <ProjectReference Include="..\MicroServiceProject.BookingFlight.Data\MicroServiceProject.BookingFlight.Data.csproj" />
     <ProjectReference Include="..\MicroServiceProject.BookingFlight.Domain.Application\MicroServiceProject.BookingFlight.Domain.Application.csproj" />
     <ProjectReference Include="..\MicroServiceProject.BookingFlight.Domain\MicroServiceProject.BookingFlight.Domain.csproj" />
+    <ProjectReference Include="..\MicroServiceProject.Infra.Bus\MicroServiceProject.Infra.Bus.csproj" />
   </ItemGroup>
 
 </Project>

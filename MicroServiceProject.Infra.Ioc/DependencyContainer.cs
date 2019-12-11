@@ -1,9 +1,9 @@
-﻿//using MicroServiceProject.BookingFlight.Application.Interfaces;
+﻿using MicroServiceProject.BookingFlight.Application.Interfaces;
 using MicroServiceProject.BookingFlight.Data.Context;
 using MicroServiceProject.BookingFlight.Data.Repositorry;
 using MicroServiceProject.BookingFlight.Domain.Interfaces;
-//using MicroServiceProject.Domain.Core.Bus;
-//using MicroServiceProject.Infra.Bus;
+using MicroServiceProject.Domain.Core.Bus;
+using MicroServiceProject.Infra.Bus;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -16,12 +16,12 @@ namespace MicroServiceProject.Infra.Ioc
         public static void RegisterServices(IServiceCollection services)
         {
             // Domain bus 
-            //   services.AddTransient<IEventBus, RabitMQBus>();
+            services.AddTransient<IEventBus, RabitMQBus>();
 
 
             // Application services
 
-            // services.AddTransient<IFeedBackService, IFeedBackService>();
+            services.AddTransient<IFeedBackService, IFeedBackService>();
 
 
             //Data

@@ -14,3 +14,7 @@ C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\ob
 C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\obj\Debug\netcoreapp2.2\MicroServiceProject.Infra.Ioc.pdb
 C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\bin\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Domain.Application.dll
 C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\bin\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Domain.Application.pdb
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\bin\Debug\netcoreapp2.2\MicroServiceProject.Domain.Core.dll
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\bin\Debug\netcoreapp2.2\MicroServiceProject.Infra.Bus.dll
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\bin\Debug\netcoreapp2.2\MicroServiceProject.Infra.Bus.pdb
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\bin\Debug\netcoreapp2.2\MicroServiceProject.Domain.Core.pdb

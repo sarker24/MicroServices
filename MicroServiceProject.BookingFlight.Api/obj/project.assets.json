@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.2": {
+      "MediatR/7.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MediatR.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MediatR.dll": {}
+        }
+      },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
         "type": "package",
         "dependencies": {
@@ -2724,7 +2733,7 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "Newtonsoft.Json/11.0.2": {
+      "Newtonsoft.Json/12.0.3": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
@@ -2744,6 +2753,15 @@
         },
         "runtime": {
           "lib/netstandard1.3/Newtonsoft.Json.Bson.dll": {}
+        }
+      },
+      "RabbitMQ.Client/5.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/RabbitMQ.Client.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/RabbitMQ.Client.dll": {}
         }
       },
       "Remotion.Linq/2.2.0": {
@@ -4478,13 +4496,43 @@
           "bin/placeholder/MicroServiceProject.BookingFlight.Domain.Application.dll": {}
         }
       },
+      "MicroServiceProject.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "MediatR": "7.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MicroServiceProject.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroServiceProject.Domain.Core.dll": {}
+        }
+      },
+      "MicroServiceProject.Infra.Bus/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "MediatR": "7.0.0",
+          "MicroServiceProject.Domain.Core": "1.0.0",
+          "Newtonsoft.Json": "12.0.3",
+          "RabbitMQ.Client": "5.1.2"
+        },
+        "compile": {
+          "bin/placeholder/MicroServiceProject.Infra.Bus.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroServiceProject.Infra.Bus.dll": {}
+        }
+      },
       "MicroServiceProject.Infra.Ioc/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
         "dependencies": {
           "MicroServiceProject.BookingFlight.Data": "1.0.0",
           "MicroServiceProject.BookingFlight.Domain": "1.0.0",
-          "MicroServiceProject.BookingFlight.Domain.Application": "1.0.0"
+          "MicroServiceProject.BookingFlight.Domain.Application": "1.0.0",
+          "MicroServiceProject.Infra.Bus": "1.0.0"
         },
         "compile": {
           "bin/placeholder/MicroServiceProject.Infra.Ioc.dll": {}
@@ -4496,6 +4544,19 @@
     }
   },
   "libraries": {
+    "MediatR/7.0.0": {
+      "sha512": "sgfHxkBsmMlHOD564SnLqTvSbAuGlFiZfc6ybxBSI1wYV/2u+Y5TXtFoIhCISFg5/s/6aMvB338QC2JseHsjTA==",
+      "type": "package",
+      "path": "mediatr/7.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/MediatR.dll",
+        "lib/netstandard2.0/MediatR.dll",
+        "mediatr.7.0.0.nupkg.sha512",
+        "mediatr.nuspec"
+      ]
+    },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "sha512": "owAlEIUZXWSnkK8Z1c+zR47A0X6ykF4XjbPok4lQKNuciUfHLGPd6QnI+rt/8KlQ17PmF+I4S3f+m+Qe4IvViw==",
       "type": "package",
@@ -7389,10 +7450,10 @@
         "netstandard.library.nuspec"
       ]
     },
-    "Newtonsoft.Json/11.0.2": {
-      "sha512": "IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
       "type": "package",
-      "path": "newtonsoft.json/11.0.2",
+      "path": "newtonsoft.json/12.0.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7415,8 +7476,9 @@
         "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
         "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
         "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
-        "newtonsoft.json.11.0.2.nupkg.sha512",
-        "newtonsoft.json.nuspec"
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
       ]
     },
     "Newtonsoft.Json.Bson/1.0.1": {
@@ -7432,6 +7494,23 @@
         "lib/netstandard1.3/Newtonsoft.Json.Bson.xml",
         "newtonsoft.json.bson.1.0.1.nupkg.sha512",
         "newtonsoft.json.bson.nuspec"
+      ]
+    },
+    "RabbitMQ.Client/5.1.2": {
+      "sha512": "Xhj+un0pw4N7h37SZWptxl/NEv7f1RLHwZhXjqzkCm3w3IdbFJh+HjVyPaciD848BUYLGoEQzadx90nShsbs4Q==",
+      "type": "package",
+      "path": "rabbitmq.client/5.1.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net451/RabbitMQ.Client.dll",
+        "lib/net451/RabbitMQ.Client.xml",
+        "lib/netstandard1.5/RabbitMQ.Client.dll",
+        "lib/netstandard1.5/RabbitMQ.Client.xml",
+        "lib/netstandard2.0/RabbitMQ.Client.dll",
+        "lib/netstandard2.0/RabbitMQ.Client.xml",
+        "rabbitmq.client.5.1.2.nupkg.sha512",
+        "rabbitmq.client.nuspec"
       ]
     },
     "Remotion.Linq/2.2.0": {
@@ -12142,6 +12221,16 @@
       "type": "project",
       "path": "../MicroServiceProject.BookingFlight.Domain.Application/MicroServiceProject.BookingFlight.Domain.Application.csproj",
       "msbuildProject": "../MicroServiceProject.BookingFlight.Domain.Application/MicroServiceProject.BookingFlight.Domain.Application.csproj"
+    },
+    "MicroServiceProject.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../MicroServiceProject.Domain.Core/MicroServiceProject.Domain.Core.csproj",
+      "msbuildProject": "../MicroServiceProject.Domain.Core/MicroServiceProject.Domain.Core.csproj"
+    },
+    "MicroServiceProject.Infra.Bus/1.0.0": {
+      "type": "project",
+      "path": "../MicroServiceProject.Infra.Bus/MicroServiceProject.Infra.Bus.csproj",
+      "msbuildProject": "../MicroServiceProject.Infra.Bus/MicroServiceProject.Infra.Bus.csproj"
     },
     "MicroServiceProject.Infra.Ioc/1.0.0": {
       "type": "project",
