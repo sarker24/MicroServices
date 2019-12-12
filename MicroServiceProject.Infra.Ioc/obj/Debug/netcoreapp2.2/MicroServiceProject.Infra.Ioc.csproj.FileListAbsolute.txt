@@ -3,8 +3,12 @@ C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\bi
 C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\bin\Debug\netcoreapp2.2\MicroServiceProject.Infra.Ioc.pdb
 C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\bin\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Data.dll
 C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\bin\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Domain.dll
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\bin\Debug\netcoreapp2.2\MicroServiceProject.Domain.Core.dll
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\bin\Debug\netcoreapp2.2\MicroServiceProject.Infra.Bus.dll
 C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\bin\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Data.pdb
 C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\bin\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Domain.pdb
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\bin\Debug\netcoreapp2.2\MicroServiceProject.Infra.Bus.pdb
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\bin\Debug\netcoreapp2.2\MicroServiceProject.Domain.Core.pdb
 C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\obj\Debug\netcoreapp2.2\MicroServiceProject.Infra.Ioc.csprojAssemblyReference.cache
 C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\obj\Debug\netcoreapp2.2\MicroServiceProject.Infra.Ioc.csproj.CoreCompileInputs.cache
 C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\obj\Debug\netcoreapp2.2\MicroServiceProject.Infra.Ioc.AssemblyInfoInputs.cache
@@ -12,9 +16,5 @@ C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\ob
 C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\obj\Debug\netcoreapp2.2\MicroServiceProject.Infra.Ioc.csproj.CopyComplete
 C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\obj\Debug\netcoreapp2.2\MicroServiceProject.Infra.Ioc.dll
 C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\obj\Debug\netcoreapp2.2\MicroServiceProject.Infra.Ioc.pdb
-C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\bin\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Domain.Application.dll
-C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\bin\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Domain.Application.pdb
-C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\bin\Debug\netcoreapp2.2\MicroServiceProject.Domain.Core.dll
-C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\bin\Debug\netcoreapp2.2\MicroServiceProject.Infra.Bus.dll
-C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\bin\Debug\netcoreapp2.2\MicroServiceProject.Infra.Bus.pdb
-C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\bin\Debug\netcoreapp2.2\MicroServiceProject.Domain.Core.pdb
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\bin\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Application.dll
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.Infra.Ioc\bin\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Application.pdb

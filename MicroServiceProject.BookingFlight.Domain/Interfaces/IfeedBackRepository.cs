@@ -5,7 +5,7 @@ using System.Text;
 
 namespace MicroServiceProject.BookingFlight.Domain.Interfaces
 {
-    public interface IfeedBackRepository
+    public interface IFeedBackRepository
     {
         IEnumerable<FeedBack> GetFeedBacks();
     }

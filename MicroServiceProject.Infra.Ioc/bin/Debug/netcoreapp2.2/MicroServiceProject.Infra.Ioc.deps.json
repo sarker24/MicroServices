@@ -8,9 +8,9 @@
     ".NETCoreApp,Version=v2.2": {
       "MicroServiceProject.Infra.Ioc/1.0.0": {
         "dependencies": {
+          "MicroServiceProject.BookingFlight.Application": "1.0.0",
           "MicroServiceProject.BookingFlight.Data": "1.0.0",
           "MicroServiceProject.BookingFlight.Domain": "1.0.0",
-          "MicroServiceProject.BookingFlight.Domain.Application": "1.0.0",
           "MicroServiceProject.Infra.Bus": "1.0.0"
         },
         "runtime": {
@@ -540,6 +540,15 @@
           "System.Runtime": "4.1.0"
         }
       },
+      "MicroServiceProject.BookingFlight.Application/1.0.0": {
+        "dependencies": {
+          "MicroServiceProject.BookingFlight.Data": "1.0.0",
+          "MicroServiceProject.BookingFlight.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MicroServiceProject.BookingFlight.Application.dll": {}
+        }
+      },
       "MicroServiceProject.BookingFlight.Data/1.0.0": {
         "dependencies": {
           "MicroServiceProject.BookingFlight.Domain": "1.0.0",
@@ -554,14 +563,6 @@
       "MicroServiceProject.BookingFlight.Domain/1.0.0": {
         "runtime": {
           "MicroServiceProject.BookingFlight.Domain.dll": {}
-        }
-      },
-      "MicroServiceProject.BookingFlight.Domain.Application/1.0.0": {
-        "dependencies": {
-          "MicroServiceProject.BookingFlight.Domain": "1.0.0"
-        },
-        "runtime": {
-          "MicroServiceProject.BookingFlight.Domain.Application.dll": {}
         }
       },
       "MicroServiceProject.Domain.Core/1.0.0": {
@@ -997,17 +998,17 @@
       "path": "system.threading.tasks/4.0.11",
       "hashPath": "system.threading.tasks.4.0.11.nupkg.sha512"
     },
+    "MicroServiceProject.BookingFlight.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "MicroServiceProject.BookingFlight.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "MicroServiceProject.BookingFlight.Domain/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "MicroServiceProject.BookingFlight.Domain.Application/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

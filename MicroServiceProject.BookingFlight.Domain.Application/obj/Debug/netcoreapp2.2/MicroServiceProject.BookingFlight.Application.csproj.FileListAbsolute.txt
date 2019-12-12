@@ -1,0 +1,14 @@
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Domain.Application\bin\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Application.deps.json
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Domain.Application\bin\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Application.dll
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Domain.Application\bin\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Application.pdb
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Domain.Application\bin\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Data.dll
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Domain.Application\bin\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Domain.dll
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Domain.Application\bin\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Data.pdb
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Domain.Application\bin\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Domain.pdb
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Domain.Application\obj\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Application.csprojAssemblyReference.cache
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Domain.Application\obj\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Application.csproj.CoreCompileInputs.cache
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Domain.Application\obj\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Application.AssemblyInfoInputs.cache
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Domain.Application\obj\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Application.AssemblyInfo.cs
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Domain.Application\obj\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Application.csproj.CopyComplete
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Domain.Application\obj\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Application.dll
+C:\Users\sarke\Source\Repos\MicroServiceProject\MicroServiceProject.BookingFlight.Domain.Application\obj\Debug\netcoreapp2.2\MicroServiceProject.BookingFlight.Application.pdb

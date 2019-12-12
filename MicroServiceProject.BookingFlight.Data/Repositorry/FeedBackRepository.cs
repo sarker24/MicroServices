@@ -7,7 +7,7 @@ using System.Text;
 
 namespace MicroServiceProject.BookingFlight.Data.Repositorry
 {
-    public class FeedBackRepository : IfeedBackRepository
+    public class FeedBackRepository : IFeedBackRepository
     {
         private BookingFlightDBContext _ctx;
 

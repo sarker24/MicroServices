@@ -9,9 +9,9 @@ namespace MicroServiceProject.BookingFlight.Application.Services
 {
     public class FeedBackServices : IFeedBackService
     {
-        private readonly IfeedBackRepository _feedBackRepository;
+        private readonly IFeedBackRepository _feedBackRepository;
 
-        public FeedBackServices(IfeedBackRepository feedBackRepository)
+        public FeedBackServices(IFeedBackRepository feedBackRepository)
         {
             _feedBackRepository = feedBackRepository;
         }

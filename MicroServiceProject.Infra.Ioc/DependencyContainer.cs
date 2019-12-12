@@ -26,7 +26,7 @@ namespace MicroServiceProject.Infra.Ioc
 
             //Data
 
-            services.AddTransient<IfeedBackRepository, FeedBackRepository>();
+            services.AddTransient<IFeedBackRepository, FeedBackRepository>();
             services.AddTransient<BookingFlightDBContext>();
 
         }

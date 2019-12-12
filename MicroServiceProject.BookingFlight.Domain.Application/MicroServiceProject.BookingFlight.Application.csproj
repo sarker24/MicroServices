@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\MicroServiceProject.BookingFlight.Data\MicroServiceProject.BookingFlight.Data.csproj" />
     <ProjectReference Include="..\MicroServiceProject.BookingFlight.Domain\MicroServiceProject.BookingFlight.Domain.csproj" />
   </ItemGroup>
 

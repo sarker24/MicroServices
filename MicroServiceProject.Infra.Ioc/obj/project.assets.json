@@ -959,6 +959,20 @@
           "ref/netstandard1.3/System.Threading.Tasks.dll": {}
         }
       },
+      "MicroServiceProject.BookingFlight.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "MicroServiceProject.BookingFlight.Data": "1.0.0",
+          "MicroServiceProject.BookingFlight.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MicroServiceProject.BookingFlight.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroServiceProject.BookingFlight.Application.dll": {}
+        }
+      },
       "MicroServiceProject.BookingFlight.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
@@ -983,19 +997,6 @@
         },
         "runtime": {
           "bin/placeholder/MicroServiceProject.BookingFlight.Domain.dll": {}
-        }
-      },
-      "MicroServiceProject.BookingFlight.Domain.Application/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.2",
-        "dependencies": {
-          "MicroServiceProject.BookingFlight.Domain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MicroServiceProject.BookingFlight.Domain.Application.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MicroServiceProject.BookingFlight.Domain.Application.dll": {}
         }
       },
       "MicroServiceProject.Domain.Core/1.0.0": {
@@ -3724,6 +3725,11 @@
         "system.threading.tasks.nuspec"
       ]
     },
+    "MicroServiceProject.BookingFlight.Application/1.0.0": {
+      "type": "project",
+      "path": "../MicroServiceProject.BookingFlight.Domain.Application/MicroServiceProject.BookingFlight.Application.csproj",
+      "msbuildProject": "../MicroServiceProject.BookingFlight.Domain.Application/MicroServiceProject.BookingFlight.Application.csproj"
+    },
     "MicroServiceProject.BookingFlight.Data/1.0.0": {
       "type": "project",
       "path": "../MicroServiceProject.BookingFlight.Data/MicroServiceProject.BookingFlight.Data.csproj",
@@ -3733,11 +3739,6 @@
       "type": "project",
       "path": "../MicroServiceProject.BookingFlight.Domain/MicroServiceProject.BookingFlight.Domain.csproj",
       "msbuildProject": "../MicroServiceProject.BookingFlight.Domain/MicroServiceProject.BookingFlight.Domain.csproj"
-    },
-    "MicroServiceProject.BookingFlight.Domain.Application/1.0.0": {
-      "type": "project",
-      "path": "../MicroServiceProject.BookingFlight.Domain.Application/MicroServiceProject.BookingFlight.Domain.Application.csproj",
-      "msbuildProject": "../MicroServiceProject.BookingFlight.Domain.Application/MicroServiceProject.BookingFlight.Domain.Application.csproj"
     },
     "MicroServiceProject.Domain.Core/1.0.0": {
       "type": "project",
@@ -3752,9 +3753,9 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "MicroServiceProject.BookingFlight.Application >= 1.0.0",
       "MicroServiceProject.BookingFlight.Data >= 1.0.0",
       "MicroServiceProject.BookingFlight.Domain >= 1.0.0",
-      "MicroServiceProject.BookingFlight.Domain.Application >= 1.0.0",
       "MicroServiceProject.Infra.Bus >= 1.0.0",
       "Microsoft.NETCore.App >= 2.2.0"
     ]
@@ -3795,8 +3796,8 @@
             "C:\\Users\\sarke\\Source\\Repos\\MicroServiceProject\\MicroServiceProject.BookingFlight.Data\\MicroServiceProject.BookingFlight.Data.csproj": {
               "projectPath": "C:\\Users\\sarke\\Source\\Repos\\MicroServiceProject\\MicroServiceProject.BookingFlight.Data\\MicroServiceProject.BookingFlight.Data.csproj"
             },
-            "C:\\Users\\sarke\\Source\\Repos\\MicroServiceProject\\MicroServiceProject.BookingFlight.Domain.Application\\MicroServiceProject.BookingFlight.Domain.Application.csproj": {
-              "projectPath": "C:\\Users\\sarke\\Source\\Repos\\MicroServiceProject\\MicroServiceProject.BookingFlight.Domain.Application\\MicroServiceProject.BookingFlight.Domain.Application.csproj"
+            "C:\\Users\\sarke\\Source\\Repos\\MicroServiceProject\\MicroServiceProject.BookingFlight.Domain.Application\\MicroServiceProject.BookingFlight.Application.csproj": {
+              "projectPath": "C:\\Users\\sarke\\Source\\Repos\\MicroServiceProject\\MicroServiceProject.BookingFlight.Domain.Application\\MicroServiceProject.BookingFlight.Application.csproj"
             },
             "C:\\Users\\sarke\\Source\\Repos\\MicroServiceProject\\MicroServiceProject.BookingFlight.Domain\\MicroServiceProject.BookingFlight.Domain.csproj": {
               "projectPath": "C:\\Users\\sarke\\Source\\Repos\\MicroServiceProject\\MicroServiceProject.BookingFlight.Domain\\MicroServiceProject.BookingFlight.Domain.csproj"
