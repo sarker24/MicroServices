@@ -7,7 +7,9 @@ The sample application is built based on microservices architecture. There are s
 
 <img width="676" alt="Untitled" src="https://user-images.githubusercontent.com/31739314/70749047-a0651600-1d2b-11ea-840d-b22b37c0e96c.png">
  
-This diagram shows the internal design of the transaction microservices. The business logic and datalogic related to traction service is written in a separate transaction processing framework. The transaction data is stored in sQL server.
+This diagram shows the internal design of the transaction microservices. The business logic and datalogic related to traction service is written in a separate transaction processing framework. The transaction data is stored in SQL server.
+
+We have sender and receiver, Sender send the messages and store the RabbitMQ service bus. Receicer receive message from the RabbitMQ service bus. We have different different application settings, Different microservices setup, Setup MediatR for sending and receiving message.
 
 Development Environment:
 
