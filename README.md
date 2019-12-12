@@ -9,12 +9,17 @@ The sample application is built based on microservices architecture. There are s
  
 This diagram shows the internal design of the transaction microservices. The business logic and datalogic related to traction service is written in a separate transaction processing framework. The transaction data is stored in SQL server.
 
-We have sender and receiver, Sender send the messages and store the RabbitMQ service bus. Receicer receive message from the RabbitMQ service bus. We have different different application settings, Different microservices setup, Setup MediatR for sending and receiving message.
+We have sender and receiver, Sender send the messages and store the RabbitMQ service bus. Receiver receive message from the RabbitMQ service bus. We have different application setup, Different microservices setup, Setup MediatR for sending and receiving message.
 
-Development Environment:
-
-
+## Development Environment:
 * NET Core 2.2 SKD
-* Visual studio Web API core
+* Visual studio .Net core
 * RabbitMQ server
+* SQL server
+
+## Opensource Tools Used:
+* Entity Framwork Core(For Data Access)
+* Swashbucke(For Api Documentation)
+
+
 
