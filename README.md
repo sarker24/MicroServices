@@ -12,7 +12,7 @@ This diagram shows the internal design of the transaction microservices. The bus
 We have sender and receiver, Sender send the messages and store the RabbitMQ service bus. Receiver receive message from the RabbitMQ service bus. We have different application setup, Different microservices setup, Setup MediatR for sending and receiving message.
 
 ## Development Environment:
-* NET Core 2.2 SKD
+* NET Core 2.2 SDK
 * Visual studio .Net core
 * RabbitMQ server
 * SQL server
